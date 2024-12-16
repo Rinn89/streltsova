@@ -1,0 +1,19 @@
+<html>
+  <head>
+   <meta charset="utf-8">
+   <title> Задание 2 - Стрельцова Е. </title>
+  </head>
+
+
+  <p><a href="https://mguu.ru/"><img hight=300 width=500 src="https://sch1223s.mskobr.ru/files/Prof/%D0%BC%D0%B3%D0%B3%D1%83.jpg"></a></p>
+ 
+ <p><a href="https://portal.mguu.ru/student/#rating"><img hight=300 width=500 src="https://spark.ru/upload/other/b_5dc123a1c2f12.jpg"></a></p>
+  
+<p><a href="https://mguu.ru/undergraduate/kafedry/kafedra-ekonomiki-gorodskogo-hozyajstva/"><img hight=300 width=500 src="https://img.freepik.com/free-vector/students-interacting-with-each-other-making-friends-university-college-campus-tours-university-campus-events-campus-learning-concept_335657-823.jpg?semt=ais_hybrid"></a></p>
+
+
+  <p><a href="Задание%203.html">Третий документ</a></p>
+
+
+</body>
+</html>
